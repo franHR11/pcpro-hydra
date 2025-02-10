@@ -1,0 +1,4 @@
+Archivo: 1735779434_intel.webp
+Ruta Relativa: /static/1735779434_intel.webp
+
+Documentación:

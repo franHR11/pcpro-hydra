@@ -1,0 +1,9 @@
+Archivo: productosrelacionados.php
+Ruta Relativa: /modulos/productosrelacionados/productosrelacionados.php
+
+Documentación:
+* @webblock
+ * @author FranHR
+ * @description Módulo que muestra productos relacionados en el lateral de la página
+ * utilizando includes para CSS y JS
+

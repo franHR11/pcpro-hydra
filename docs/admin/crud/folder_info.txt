@@ -1,0 +1,2 @@
+Carpeta: crud
+Ruta Relativa: /admin/crud

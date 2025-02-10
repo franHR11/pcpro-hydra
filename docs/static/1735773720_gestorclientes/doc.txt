@@ -1,0 +1,4 @@
+Archivo: 1735773720_gestorclientes.png
+Ruta Relativa: /static/1735773720_gestorclientes.png
+
+Documentación:

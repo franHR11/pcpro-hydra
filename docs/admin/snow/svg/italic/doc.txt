@@ -1,0 +1,4 @@
+Archivo: italic.svg
+Ruta Relativa: /admin/snow/svg/italic.svg
+
+Documentación:

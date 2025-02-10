@@ -1,0 +1,2 @@
+Carpeta: pagina
+Ruta Relativa: /modulos/pagina

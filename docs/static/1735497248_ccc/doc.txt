@@ -1,0 +1,4 @@
+Archivo: 1735497248_ccc.png
+Ruta Relativa: /static/1735497248_ccc.png
+
+Documentación:

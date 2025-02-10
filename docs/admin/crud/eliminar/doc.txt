@@ -1,0 +1,7 @@
+Archivo: eliminar.php
+Ruta Relativa: /admin/crud/eliminar.php
+
+Documentación:
+Archivo: eliminar.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/crud/eliminar.php

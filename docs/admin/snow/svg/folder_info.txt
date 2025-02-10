@@ -1,0 +1,2 @@
+Carpeta: svg
+Ruta Relativa: /admin/snow/svg

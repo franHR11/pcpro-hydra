@@ -1,0 +1,7 @@
+Archivo: info.php
+Ruta Relativa: /admin/inc/info.php
+
+Documentación:
+Archivo: info.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/info.php

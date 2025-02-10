@@ -1,0 +1,4 @@
+Archivo: vikinga.webp
+Ruta Relativa: /static/vikinga.webp
+
+Documentación:

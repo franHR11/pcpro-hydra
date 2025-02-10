@@ -1,0 +1,4 @@
+Archivo: events.json
+Ruta Relativa: /inc/analytics/events.json
+
+Documentación:

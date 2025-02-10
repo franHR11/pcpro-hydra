@@ -1,0 +1,7 @@
+Archivo: contenido.php
+Ruta Relativa: /admin/inc/contenido.php
+
+Documentación:
+Archivo: contenido.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/contenido.php

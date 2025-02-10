@@ -1,0 +1,2 @@
+Carpeta: tarjetasanimadascss
+Ruta Relativa: /proyectos/tarjetasanimadascss

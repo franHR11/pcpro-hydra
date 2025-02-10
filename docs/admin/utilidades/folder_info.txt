@@ -1,0 +1,2 @@
+Carpeta: utilidades
+Ruta Relativa: /admin/utilidades

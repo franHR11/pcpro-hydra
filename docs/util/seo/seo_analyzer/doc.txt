@@ -1,0 +1,7 @@
+Archivo: seo_analyzer.php
+Ruta Relativa: /util/seo/seo_analyzer.php
+
+Documentación:
+Archivo: seo_analyzer.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/util/seo/seo_analyzer.php

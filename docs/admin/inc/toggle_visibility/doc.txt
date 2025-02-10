@@ -1,0 +1,7 @@
+Archivo: toggle_visibility.php
+Ruta Relativa: /admin/inc/toggle_visibility.php
+
+Documentación:
+Archivo: toggle_visibility.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/toggle_visibility.php

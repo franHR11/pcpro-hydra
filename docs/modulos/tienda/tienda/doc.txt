@@ -1,0 +1,9 @@
+Archivo: tienda.php
+Ruta Relativa: /modulos/tienda/tienda.php
+
+Documentación:
+* @webblock
+ * @author FranHR
+ * @description Gestiona la visualización y funcionalidad principal de la tienda
+ * incluyendo la gestión de productos y su presentación
+

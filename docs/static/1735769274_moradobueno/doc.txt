@@ -1,0 +1,4 @@
+Archivo: 1735769274_moradobueno.jpg
+Ruta Relativa: /static/1735769274_moradobueno.jpg
+
+Documentación:

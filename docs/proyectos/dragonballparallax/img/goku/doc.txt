@@ -1,0 +1,4 @@
+Archivo: goku.png
+Ruta Relativa: /proyectos/dragonballparallax/img/goku.png
+
+Documentación:

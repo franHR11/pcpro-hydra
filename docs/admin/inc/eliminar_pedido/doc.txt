@@ -1,0 +1,7 @@
+Archivo: eliminar_pedido.php
+Ruta Relativa: /admin/inc/eliminar_pedido.php
+
+Documentación:
+Archivo: eliminar_pedido.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/eliminar_pedido.php

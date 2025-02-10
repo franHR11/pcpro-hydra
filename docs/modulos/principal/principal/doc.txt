@@ -1,0 +1,10 @@
+Archivo: principal.php
+Ruta Relativa: /modulos/principal/principal.php
+
+Documentación:
+* @webblock Principal
+ * @author FranHR
+ * @description Módulo principal que actúa como contenedor y gestiona la inclusión
+ * de los submódulos de la página: oferta, heroes, destacados, carrusel y descargo.
+ * Este archivo orquesta la estructura principal del contenido de la página.
+

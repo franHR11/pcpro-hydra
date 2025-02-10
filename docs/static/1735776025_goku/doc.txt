@@ -1,0 +1,4 @@
+Archivo: 1735776025_goku.png
+Ruta Relativa: /static/1735776025_goku.png
+
+Documentación:

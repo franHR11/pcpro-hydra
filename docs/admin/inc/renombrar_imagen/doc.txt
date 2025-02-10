@@ -1,0 +1,7 @@
+Archivo: renombrar_imagen.php
+Ruta Relativa: /admin/inc/renombrar_imagen.php
+
+Documentación:
+Archivo: renombrar_imagen.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/renombrar_imagen.php

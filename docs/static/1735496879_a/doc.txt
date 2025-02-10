@@ -1,0 +1,4 @@
+Archivo: 1735496879_a.png
+Ruta Relativa: /static/1735496879_a.png
+
+Documentación:

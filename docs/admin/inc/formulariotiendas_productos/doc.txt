@@ -1,0 +1,7 @@
+Archivo: formulariotiendas_productos.php
+Ruta Relativa: /admin/inc/formulariotiendas_productos.php
+
+Documentación:
+Archivo: formulariotiendas_productos.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/formulariotiendas_productos.php

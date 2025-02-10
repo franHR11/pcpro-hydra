@@ -1,0 +1,7 @@
+Archivo: table-sort-filter.js
+Ruta Relativa: /admin/js/table-sort-filter.js
+
+Documentación:
+Archivo: table-sort-filter.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/js/table-sort-filter.js

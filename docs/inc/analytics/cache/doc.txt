@@ -1,0 +1,4 @@
+Archivo: cache.json
+Ruta Relativa: /inc/analytics/cache.json
+
+Documentación:

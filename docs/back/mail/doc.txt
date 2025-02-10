@@ -1,0 +1,7 @@
+Archivo: mail.php
+Ruta Relativa: /back/mail.php
+
+Documentación:
+Archivo: mail.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/back/mail.php

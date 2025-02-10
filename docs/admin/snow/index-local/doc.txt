@@ -1,0 +1,7 @@
+Archivo: index-local.html
+Ruta Relativa: /admin/snow/index-local.html
+
+Documentación:
+Archivo: index-local.html
+Tipo: HTML
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/snow/index-local.html

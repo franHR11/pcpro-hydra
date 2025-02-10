@@ -1,0 +1,8 @@
+Archivo: destacados.php
+Ruta Relativa: /modulos/destacados/destacados.php
+
+Documentación:
+* @webblock Módulo de Destacados
+ * @author FranHR
+ * @description Componente que muestra secciones destacadas con estilos personalizables
+

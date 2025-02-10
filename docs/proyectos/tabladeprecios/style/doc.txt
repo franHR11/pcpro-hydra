@@ -1,0 +1,5 @@
+Archivo: style.css
+Ruta Relativa: /proyectos/tabladeprecios/style.css
+
+Documentación:
+Preferred icon size

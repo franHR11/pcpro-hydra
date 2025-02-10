@@ -1,0 +1,4 @@
+Archivo: 6.avif
+Ruta Relativa: /proyectos/carruselautoymanual/img/6.avif
+
+Documentación:

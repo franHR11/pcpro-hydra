@@ -1,0 +1,4 @@
+Archivo: bold.svg
+Ruta Relativa: /admin/snow/svg/bold.svg
+
+Documentación:

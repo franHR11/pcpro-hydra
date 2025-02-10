@@ -1,0 +1,12 @@
+Archivo: index.php
+Ruta Relativa: /util/analytic/index.php
+
+Documentación:
+* Archivo principal del panel de Analytics.
+ * 
+ * Este archivo genera la interfaz de usuario del panel de Analytics, mostrando métricas clave,
+ * gráficos y tablas de datos. Permite la actualización de datos en tiempo real y la visualización
+ * de tendencias y estadísticas de tráfico.
+ * 
+ * Autor: franHR
+

@@ -1,0 +1,2 @@
+Carpeta: css
+Ruta Relativa: /proyectos/dragonballparallax/css

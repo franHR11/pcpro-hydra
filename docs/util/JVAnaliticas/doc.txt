@@ -1,0 +1,5 @@
+Archivo: JVAnaliticas.py
+Ruta Relativa: /util/JVAnaliticas.py
+
+Documentación:
+Obtener la ruta del directorio actual

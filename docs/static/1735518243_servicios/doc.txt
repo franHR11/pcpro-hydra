@@ -1,0 +1,4 @@
+Archivo: 1735518243_servicios.jpg
+Ruta Relativa: /static/1735518243_servicios.jpg
+
+Documentación:

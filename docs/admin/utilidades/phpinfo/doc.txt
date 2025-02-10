@@ -1,0 +1,7 @@
+Archivo: phpinfo.php
+Ruta Relativa: /admin/utilidades/phpinfo.php
+
+Documentación:
+Archivo: phpinfo.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/utilidades/phpinfo.php

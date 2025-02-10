@@ -1,0 +1,4 @@
+Archivo: placeholder.jpg
+Ruta Relativa: /admin/img/placeholder.jpg
+
+Documentación:

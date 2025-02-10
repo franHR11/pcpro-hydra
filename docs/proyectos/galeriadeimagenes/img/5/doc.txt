@@ -1,0 +1,4 @@
+Archivo: 5.jpg
+Ruta Relativa: /proyectos/galeriadeimagenes/img/5.jpg
+
+Documentación:

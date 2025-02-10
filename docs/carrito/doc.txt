@@ -1,0 +1,16 @@
+Archivo: carrito.php
+Ruta Relativa: /carrito.php
+
+Documentación:
+* Página del carrito de compras
+ * 
+ * @description Gestiona el carrito de compras del usuario
+ * @requires inc/errores.php - Manejo de errores
+ * @requires inc/registro.php - Funcionalidad de registro
+ * @requires inc/cabeza.php - Header HTML común
+ * @requires modulos/cabecera/cabecera.php - Navegación superior
+ * @requires modulos/carrito/carrito.php - Funcionalidad del carrito
+ * @requires modulos/piedepagina/piedepagina.php - Footer común
+ * @uses SESSION - Para almacenar los items del carrito
+ * @author Francisco José Herreros Rodríguez
+

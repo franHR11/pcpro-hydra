@@ -1,0 +1,7 @@
+Archivo: modal.php
+Ruta Relativa: /modulos/modal/modal.php
+
+Documentación:
+Archivo: modal.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/modulos/modal/modal.php

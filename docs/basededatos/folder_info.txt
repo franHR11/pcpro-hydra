@@ -1,0 +1,2 @@
+Carpeta: basededatos
+Ruta Relativa: /basededatos

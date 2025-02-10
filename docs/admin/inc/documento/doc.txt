@@ -1,0 +1,7 @@
+Archivo: documento.php
+Ruta Relativa: /admin/inc/documento.php
+
+Documentación:
+Archivo: documento.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/documento.php

@@ -1,0 +1,5 @@
+Archivo: index.html
+Ruta Relativa: /proyectos/carruselautoymanual/index.html
+
+Documentación:
+Botones de navegación

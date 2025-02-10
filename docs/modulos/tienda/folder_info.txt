@@ -1,0 +1,2 @@
+Carpeta: tienda
+Ruta Relativa: /modulos/tienda

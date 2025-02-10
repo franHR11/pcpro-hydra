@@ -1,0 +1,7 @@
+Archivo: errores.php
+Ruta Relativa: /inc/errores.php
+
+Documentación:
+Archivo: errores.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/inc/errores.php

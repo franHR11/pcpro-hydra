@@ -1,0 +1,7 @@
+Archivo: pagina.php
+Ruta Relativa: /pagina.php
+
+Documentación:
+Archivo: pagina.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/pagina.php

@@ -1,0 +1,7 @@
+Archivo: paginador.php
+Ruta Relativa: /admin/inc/paginador.php
+
+Documentación:
+Archivo: paginador.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/paginador.php

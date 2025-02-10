@@ -1,0 +1,7 @@
+Archivo: jocarsa-snow.js
+Ruta Relativa: /admin/snow/jocarsa-snow.js
+
+Documentación:
+Archivo: jocarsa-snow.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/snow/jocarsa-snow.js

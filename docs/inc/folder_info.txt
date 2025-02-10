@@ -1,0 +1,2 @@
+Carpeta: inc
+Ruta Relativa: /inc

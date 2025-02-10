@@ -1,0 +1,15 @@
+Archivo: Bloque.php
+Ruta Relativa: /modulos/bloque/Classes/Bloque.php
+
+Documentación:
+* Sistema de Bloques para Construcción de Páginas Web
+ * 
+ * Este archivo define una jerarquía de clases para crear diferentes tipos de bloques
+ * de contenido web, como galerías, mosaicos, tiendas y más. Incluye manejo de estilos,
+ * imágenes y contenido dinámico.
+ * 
+ * @package    WebBlocks
+ * @author     Francisco José Herreros Rodríguez
+ * @version    2.0
+ * @license    MIT
+

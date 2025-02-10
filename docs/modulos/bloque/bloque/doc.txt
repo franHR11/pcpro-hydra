@@ -1,0 +1,14 @@
+Archivo: bloque.php
+Ruta Relativa: /modulos/bloque/bloque.php
+
+Documentación:
+* Módulo de Bloques para Apple Website Clone
+ * 
+ * Este archivo actúa como el contenedor principal para los diferentes tipos de bloques
+ * que componen la página web. Incluye la estructura HTML básica y carga los recursos
+ * necesarios (CSS y JavaScript).
+ * 
+ * @author Francisco José Herreros Rodríguez
+ * @version 1.0
+ * @package AppleClone
+

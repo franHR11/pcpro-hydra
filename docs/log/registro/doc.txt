@@ -1,0 +1,7 @@
+Archivo: registro.php
+Ruta Relativa: /log/registro.php
+
+Documentación:
+Archivo: registro.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/log/registro.php

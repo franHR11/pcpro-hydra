@@ -1,0 +1,7 @@
+Archivo: gestor_imagenes.php
+Ruta Relativa: /admin/inc/gestor_imagenes.php
+
+Documentación:
+Archivo: gestor_imagenes.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/gestor_imagenes.php

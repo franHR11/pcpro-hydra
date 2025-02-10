@@ -1,0 +1,4 @@
+Archivo: ol.svg
+Ruta Relativa: /admin/snow/svg/ol.svg
+
+Documentación:

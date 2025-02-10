@@ -1,0 +1,5 @@
+Archivo: style.css
+Ruta Relativa: /proyectos/validacionformulariocompleto/style.css
+
+Documentación:
+PERSONALIZACION DE MIS ALERTAS Y MENSAJES

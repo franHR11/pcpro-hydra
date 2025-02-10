@@ -1,0 +1,4 @@
+Archivo: 1735517135_baner.webp
+Ruta Relativa: /static/1735517135_baner.webp
+
+Documentación:

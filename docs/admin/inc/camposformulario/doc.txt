@@ -1,0 +1,7 @@
+Archivo: camposformulario.php
+Ruta Relativa: /admin/inc/camposformulario.php
+
+Documentación:
+Archivo: camposformulario.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/camposformulario.php

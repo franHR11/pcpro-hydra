@@ -1,0 +1,2 @@
+Carpeta: admin
+Ruta Relativa: /admin

@@ -1,0 +1,4 @@
+Archivo: 1735770224_heroes2.jpg
+Ruta Relativa: /static/1735770224_heroes2.jpg
+
+Documentación:

@@ -1,0 +1,7 @@
+Archivo: completar_pedido.php
+Ruta Relativa: /admin/inc/completar_pedido.php
+
+Documentación:
+Archivo: completar_pedido.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/completar_pedido.php

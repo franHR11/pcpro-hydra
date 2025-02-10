@@ -1,0 +1,2 @@
+Carpeta: logs
+Ruta Relativa: /back/inc/logs

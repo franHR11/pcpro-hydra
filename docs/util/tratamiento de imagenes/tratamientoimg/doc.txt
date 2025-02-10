@@ -1,0 +1,5 @@
+Archivo: tratamientoimg.py
+Ruta Relativa: /util/tratamiento de imagenes/tratamientoimg.py
+
+Documentación:
+Calcular nuevo tamaño manteniendo proporción

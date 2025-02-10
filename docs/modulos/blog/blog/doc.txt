@@ -1,0 +1,15 @@
+Archivo: blog.php
+Ruta Relativa: /modulos/blog/blog.php
+
+Documentación:
+* Plantilla principal del blog
+ * 
+ * Este archivo contiene la estructura HTML base del blog, incluyendo:
+ * - Contenedor principal para las entradas
+ * - Modal para mostrar artículos completos
+ * - Plantilla para las entradas del blog
+ * - Inclusión de archivos JS y CSS necesarios
+ * 
+ * @author Francisco José Herreros Rodríguez
+ * @version 1.0.0
+

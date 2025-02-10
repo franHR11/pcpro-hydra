@@ -1,0 +1,5 @@
+Archivo: style.css
+Ruta Relativa: /proyectos/galeriadeimagenes/style.css
+
+Documentación:
+Pseudoelemento vacío

@@ -1,0 +1,8 @@
+Archivo: gadget.php
+Ruta Relativa: /modulos/tienda/gadget.php
+
+Documentación:
+* @webblock
+ * @author FranHR
+ * @description Gestiona el widget del carrito flotante y su funcionalidad
+

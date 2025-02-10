@@ -1,0 +1,2 @@
+Carpeta: carrito
+Ruta Relativa: /modulos/carrito

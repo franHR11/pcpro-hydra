@@ -1,0 +1,4 @@
+Archivo: 3.jpg
+Ruta Relativa: /proyectos/logincsshtmljs/img/3.jpg
+
+Documentación:

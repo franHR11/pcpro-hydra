@@ -1,0 +1,4 @@
+Archivo: fondo.jpg
+Ruta Relativa: /admin/img/fondo.jpg
+
+Documentación:

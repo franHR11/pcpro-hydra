@@ -1,0 +1,4 @@
+Archivo: 1735771328_analytic.png
+Ruta Relativa: /static/1735771328_analytic.png
+
+Documentación:

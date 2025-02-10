@@ -1,0 +1,7 @@
+Archivo: piedepagina.php
+Ruta Relativa: /modulos/piedepagina/piedepagina.php
+
+Documentación:
+Archivo: piedepagina.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/modulos/piedepagina/piedepagina.php

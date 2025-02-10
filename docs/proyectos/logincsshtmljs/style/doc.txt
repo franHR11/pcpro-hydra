@@ -1,0 +1,7 @@
+Archivo: style.css
+Ruta Relativa: /proyectos/logincsshtmljs/style.css
+
+Documentación:
+Archivo: style.css
+Tipo: CSS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/proyectos/logincsshtmljs/style.css

@@ -1,0 +1,7 @@
+Archivo: modalpersonalizado.php
+Ruta Relativa: /modulos/modalpersonalizado/modalpersonalizado.php
+
+Documentación:
+Archivo: modalpersonalizado.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/modulos/modalpersonalizado/modalpersonalizado.php

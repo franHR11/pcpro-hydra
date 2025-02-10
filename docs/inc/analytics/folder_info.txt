@@ -1,0 +1,2 @@
+Carpeta: analytics
+Ruta Relativa: /inc/analytics

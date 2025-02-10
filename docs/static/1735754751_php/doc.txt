@@ -1,0 +1,4 @@
+Archivo: 1735754751_php.jpg
+Ruta Relativa: /static/1735754751_php.jpg
+
+Documentación:

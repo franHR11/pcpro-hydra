@@ -1,0 +1,7 @@
+Archivo: script detencion cambios archivos.py
+Ruta Relativa: /proyectos/script detencion cambios archivos.py
+
+Documentación:
+Archivo: script detencion cambios archivos.py
+Tipo: PY
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/proyectos/script detencion cambios archivos.py

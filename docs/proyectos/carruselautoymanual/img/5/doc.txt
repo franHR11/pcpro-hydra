@@ -1,0 +1,4 @@
+Archivo: 5.jpg
+Ruta Relativa: /proyectos/carruselautoymanual/img/5.jpg
+
+Documentación:

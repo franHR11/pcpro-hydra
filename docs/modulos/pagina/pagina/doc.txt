@@ -1,0 +1,6 @@
+Archivo: pagina.php
+Ruta Relativa: /modulos/pagina/pagina.php
+
+Documentación:
+* @webblock Componente de página dinámica
+

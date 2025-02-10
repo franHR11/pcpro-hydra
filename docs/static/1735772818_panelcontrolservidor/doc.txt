@@ -1,0 +1,4 @@
+Archivo: 1735772818_panelcontrolservidor.png
+Ruta Relativa: /static/1735772818_panelcontrolservidor.png
+
+Documentación:

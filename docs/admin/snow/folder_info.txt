@@ -1,0 +1,2 @@
+Carpeta: snow
+Ruta Relativa: /admin/snow

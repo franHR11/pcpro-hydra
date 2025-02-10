@@ -1,0 +1,9 @@
+Archivo: heroes.php
+Ruta Relativa: /modulos/heroes/heroes.php
+
+Documentación:
+* @webblock Heroes
+ * @author FranHR
+ * @description Módulo que muestra héroes/productos destacados con imagen de fondo, título, 
+ * texto y hasta dos botones de llamada a la acción
+

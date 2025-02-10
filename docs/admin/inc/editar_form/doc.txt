@@ -1,0 +1,7 @@
+Archivo: editar_form.php
+Ruta Relativa: /admin/inc/editar_form.php
+
+Documentación:
+Archivo: editar_form.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/editar_form.php

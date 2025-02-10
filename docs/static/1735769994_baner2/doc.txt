@@ -1,0 +1,4 @@
+Archivo: 1735769994_baner2.jpeg
+Ruta Relativa: /static/1735769994_baner2.jpeg
+
+Documentación:

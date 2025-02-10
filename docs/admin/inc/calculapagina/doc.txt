@@ -1,0 +1,7 @@
+Archivo: calculapagina.php
+Ruta Relativa: /admin/inc/calculapagina.php
+
+Documentación:
+Archivo: calculapagina.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/calculapagina.php

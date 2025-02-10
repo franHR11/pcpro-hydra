@@ -1,0 +1,2 @@
+Carpeta: static
+Ruta Relativa: /static

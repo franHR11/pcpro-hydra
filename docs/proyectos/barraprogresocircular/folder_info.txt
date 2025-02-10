@@ -1,0 +1,2 @@
+Carpeta: barraprogresocircular
+Ruta Relativa: /proyectos/barraprogresocircular

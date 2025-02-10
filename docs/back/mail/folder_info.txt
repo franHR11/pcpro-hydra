@@ -1,0 +1,2 @@
+Carpeta: mail
+Ruta Relativa: /back/mail

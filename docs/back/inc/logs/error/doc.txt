@@ -1,0 +1,4 @@
+Archivo: error.log
+Ruta Relativa: /back/inc/logs/error.log
+
+Documentación:

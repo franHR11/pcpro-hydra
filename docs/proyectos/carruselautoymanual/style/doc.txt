@@ -1,0 +1,5 @@
+Archivo: style.css
+Ruta Relativa: /proyectos/carruselautoymanual/style.css
+
+Documentación:
+Estilos del modal

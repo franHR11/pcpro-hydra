@@ -1,0 +1,7 @@
+Archivo: tecnologias.php
+Ruta Relativa: /modulos/tecnologias/tecnologias.php
+
+Documentación:
+Archivo: tecnologias.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/modulos/tecnologias/tecnologias.php

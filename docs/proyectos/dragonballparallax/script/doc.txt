@@ -1,0 +1,7 @@
+Archivo: script.js
+Ruta Relativa: /proyectos/dragonballparallax/script.js
+
+Documentación:
+Archivo: script.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/proyectos/dragonballparallax/script.js

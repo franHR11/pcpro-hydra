@@ -1,0 +1,7 @@
+Archivo: tabla.php
+Ruta Relativa: /admin/inc/tabla.php
+
+Documentación:
+Archivo: tabla.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/tabla.php

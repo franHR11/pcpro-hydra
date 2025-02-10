@@ -1,0 +1,5 @@
+Archivo: alter table.py
+Ruta Relativa: /log/alter table.py
+
+Documentación:
+Connect to SQLite database

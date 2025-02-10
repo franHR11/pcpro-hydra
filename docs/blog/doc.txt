@@ -1,0 +1,16 @@
+Archivo: blog.php
+Ruta Relativa: /blog.php
+
+Documentación:
+* Página del blog
+ * 
+ * @description Muestra entradas y artículos del blog
+ * @requires inc/errores.php - Manejo de errores
+ * @requires inc/cabeza.php - Header HTML común
+ * @requires modulos/cabecera/cabecera.php - Navegación superior
+ * @requires modulos/blog/blog.php - Contenido del blog
+ * @requires modulos/piedepagina/piedepagina.php - Footer común
+ * @requires modulos/modal/modal.php - Ventanas modales genéricas
+ * @requires modulos/modalpersonalizado/modalpersonalizado.php - Modales específicos
+ * @author Francisco José Herreros Rodríguez
+

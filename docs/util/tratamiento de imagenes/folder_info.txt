@@ -1,0 +1,2 @@
+Carpeta: tratamiento de imagenes
+Ruta Relativa: /util/tratamiento de imagenes

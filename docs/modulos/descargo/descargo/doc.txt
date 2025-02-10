@@ -1,0 +1,7 @@
+Archivo: descargo.php
+Ruta Relativa: /modulos/descargo/descargo.php
+
+Documentación:
+Archivo: descargo.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/modulos/descargo/descargo.php

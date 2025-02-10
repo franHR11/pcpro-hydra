@@ -1,0 +1,4 @@
+Archivo: 1735779869_ryzen2.webp
+Ruta Relativa: /static/1735779869_ryzen2.webp
+
+Documentación:

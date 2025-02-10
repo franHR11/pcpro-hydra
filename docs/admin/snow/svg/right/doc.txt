@@ -1,0 +1,4 @@
+Archivo: right.svg
+Ruta Relativa: /admin/snow/svg/right.svg
+
+Documentación:

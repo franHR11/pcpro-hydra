@@ -1,0 +1,7 @@
+Archivo: script.js
+Ruta Relativa: /proyectos/validacionformulariocompleto/js/script.js
+
+Documentación:
+Archivo: script.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/proyectos/validacionformulariocompleto/js/script.js

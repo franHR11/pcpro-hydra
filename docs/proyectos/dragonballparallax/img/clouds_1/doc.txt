@@ -1,0 +1,4 @@
+Archivo: clouds_1.png
+Ruta Relativa: /proyectos/dragonballparallax/img/clouds_1.png
+
+Documentación:

@@ -1,0 +1,4 @@
+Archivo: password.png
+Ruta Relativa: /admin/img/password.png
+
+Documentación:

@@ -1,0 +1,4 @@
+Archivo: 1735755084_html.jpg
+Ruta Relativa: /static/1735755084_html.jpg
+
+Documentación:

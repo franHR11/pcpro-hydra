@@ -1,0 +1,7 @@
+Archivo: index.php
+Ruta Relativa: /back/index.php
+
+Documentación:
+Archivo: index.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/back/index.php

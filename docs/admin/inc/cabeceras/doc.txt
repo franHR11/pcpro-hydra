@@ -1,0 +1,7 @@
+Archivo: cabeceras.php
+Ruta Relativa: /admin/inc/cabeceras.php
+
+Documentación:
+Archivo: cabeceras.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/cabeceras.php

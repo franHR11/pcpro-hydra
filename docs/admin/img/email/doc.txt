@@ -1,0 +1,4 @@
+Archivo: email.png
+Ruta Relativa: /admin/img/email.png
+
+Documentación:

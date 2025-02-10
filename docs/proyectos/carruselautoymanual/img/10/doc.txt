@@ -1,0 +1,4 @@
+Archivo: 10.jpg
+Ruta Relativa: /proyectos/carruselautoymanual/img/10.jpg
+
+Documentación:

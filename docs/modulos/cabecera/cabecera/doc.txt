@@ -1,0 +1,7 @@
+Archivo: cabecera.php
+Ruta Relativa: /modulos/cabecera/cabecera.php
+
+Documentación:
+* Este archivo genera la cabecera de la página
+ * @version 1.0
+

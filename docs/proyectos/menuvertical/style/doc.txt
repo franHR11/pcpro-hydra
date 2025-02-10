@@ -1,0 +1,7 @@
+Archivo: style.css
+Ruta Relativa: /proyectos/menuvertical/style.css
+
+Documentación:
+Archivo: style.css
+Tipo: CSS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/proyectos/menuvertical/style.css

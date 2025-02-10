@@ -1,0 +1,7 @@
+Archivo: login_modulo.js
+Ruta Relativa: /proyectos/validacionformulariocompleto/js/login_modulo.js
+
+Documentación:
+Archivo: login_modulo.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/proyectos/validacionformulariocompleto/js/login_modulo.js

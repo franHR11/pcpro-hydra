@@ -1,0 +1,12 @@
+Archivo: get_analytics_data.php
+Ruta Relativa: /util/analytic/get_analytics_data.php
+
+Documentación:
+* Archivo para obtener datos de analytics.
+ * 
+ * Este archivo procesa y devuelve datos de analytics en formato JSON. Utiliza caché para mejorar
+ * el rendimiento y permite la actualización forzada de datos. Filtra eventos por período y calcula
+ * diversas métricas y estadísticas.
+ * 
+ * Autor: franHR
+

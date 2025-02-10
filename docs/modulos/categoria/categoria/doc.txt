@@ -1,0 +1,12 @@
+Archivo: categoria.php
+Ruta Relativa: /modulos/categoria/categoria.php
+
+Documentación:
+* @webblock Módulo de Categorías
+     * @author FranHR
+     * @description Gestiona la visualización de bloques de contenido por categorías.
+     * Este módulo se encarga de:
+     * - Cargar y mostrar bloques según la categoría seleccionada
+     * - Manejar diferentes tipos de bloques (completo, caja, mosaico, etc.)
+     * - Gestionar errores y validaciones
+

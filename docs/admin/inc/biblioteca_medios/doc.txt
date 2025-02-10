@@ -1,0 +1,7 @@
+Archivo: biblioteca_medios.php
+Ruta Relativa: /admin/inc/biblioteca_medios.php
+
+Documentación:
+Archivo: biblioteca_medios.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/biblioteca_medios.php

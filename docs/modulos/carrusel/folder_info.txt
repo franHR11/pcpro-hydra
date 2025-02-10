@@ -1,0 +1,2 @@
+Carpeta: carrusel
+Ruta Relativa: /modulos/carrusel

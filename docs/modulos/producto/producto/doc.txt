@@ -1,0 +1,17 @@
+Archivo: producto.php
+Ruta Relativa: /modulos/producto/producto.php
+
+Documentación:
+* Módulo de Producto - Página de detalle de producto
+ * 
+ * Este archivo maneja la visualización detallada de un producto individual.
+ * Funcionalidades principales:
+ * - Muestra información detallada del producto (título, subtítulo, precio, imagen)
+ * - Permite añadir productos al carrito
+ * - Muestra la descripción completa del producto
+ * - Enlaza con la tienda relacionada
+ * - Gestiona bloques de contenido dinámico asociados al producto
+ * 
+ * @author Francisco José Herreros Rodríguez
+ * @version 1.0
+

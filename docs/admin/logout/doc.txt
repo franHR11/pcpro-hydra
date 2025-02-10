@@ -1,0 +1,7 @@
+Archivo: logout.php
+Ruta Relativa: /admin/logout.php
+
+Documentación:
+Archivo: logout.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/logout.php

@@ -1,0 +1,7 @@
+Archivo: subir_imagen.php
+Ruta Relativa: /admin/inc/subir_imagen.php
+
+Documentación:
+Archivo: subir_imagen.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/subir_imagen.php

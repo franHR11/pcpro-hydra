@@ -1,0 +1,7 @@
+Archivo: general.css
+Ruta Relativa: /estilo/general.css
+
+Documentación:
+Archivo: general.css
+Tipo: CSS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/estilo/general.css

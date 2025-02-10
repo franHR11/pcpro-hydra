@@ -1,0 +1,2 @@
+Carpeta: carruselautoymanual
+Ruta Relativa: /proyectos/carruselautoymanual

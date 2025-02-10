@@ -1,0 +1,7 @@
+Archivo: cabeza.php
+Ruta Relativa: /inc/cabeza.php
+
+Documentación:
+Archivo: cabeza.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/inc/cabeza.php

@@ -1,0 +1,4 @@
+Archivo: 1735352446_vikinga.webp
+Ruta Relativa: /static/1735352446_vikinga.webp
+
+Documentación:

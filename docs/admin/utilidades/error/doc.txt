@@ -1,0 +1,7 @@
+Archivo: error.php
+Ruta Relativa: /admin/utilidades/error.php
+
+Documentación:
+Archivo: error.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/utilidades/error.php

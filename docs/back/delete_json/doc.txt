@@ -1,0 +1,7 @@
+Archivo: delete_json.php
+Ruta Relativa: /back/delete_json.php
+
+Documentación:
+Archivo: delete_json.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/back/delete_json.php

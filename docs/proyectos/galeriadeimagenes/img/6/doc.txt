@@ -1,0 +1,4 @@
+Archivo: 6.jpg
+Ruta Relativa: /proyectos/galeriadeimagenes/img/6.jpg
+
+Documentación:

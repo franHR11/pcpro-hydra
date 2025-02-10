@@ -1,0 +1,4 @@
+Archivo: 1735756072_azul.png
+Ruta Relativa: /static/1735756072_azul.png
+
+Documentación:

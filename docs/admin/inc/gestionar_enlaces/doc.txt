@@ -1,0 +1,7 @@
+Archivo: gestionar_enlaces.php
+Ruta Relativa: /admin/inc/gestionar_enlaces.php
+
+Documentación:
+Archivo: gestionar_enlaces.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/gestionar_enlaces.php

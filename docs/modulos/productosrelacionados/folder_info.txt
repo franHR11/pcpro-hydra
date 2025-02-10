@@ -1,0 +1,2 @@
+Carpeta: productosrelacionados
+Ruta Relativa: /modulos/productosrelacionados

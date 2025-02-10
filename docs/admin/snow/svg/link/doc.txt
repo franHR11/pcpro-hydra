@@ -1,0 +1,4 @@
+Archivo: link.svg
+Ruta Relativa: /admin/snow/svg/link.svg
+
+Documentación:

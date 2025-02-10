@@ -1,0 +1,7 @@
+Archivo: script.js
+Ruta Relativa: /proyectos/logincsshtmljs/script.js
+
+Documentación:
+Archivo: script.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/proyectos/logincsshtmljs/script.js

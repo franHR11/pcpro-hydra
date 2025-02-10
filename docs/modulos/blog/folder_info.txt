@@ -1,0 +1,2 @@
+Carpeta: blog
+Ruta Relativa: /modulos/blog

@@ -1,0 +1,5 @@
+Archivo: style.css
+Ruta Relativa: /proyectos/buscadorcss/style.css
+
+Documentación:
+Preferred icon size

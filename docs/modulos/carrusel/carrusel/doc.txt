@@ -1,0 +1,12 @@
+Archivo: carrusel.php
+Ruta Relativa: /modulos/carrusel/carrusel.php
+
+Documentación:
+* @webblock Carrusel de Productos
+ * @description Módulo de presentación que incluye:
+ * - Carrusel principal con llamadas a la acción
+ * - Carrusel secundario de productos
+ * - Sistema de navegación por puntos
+ * @version 1.0.0
+ * @package AppleStore
+

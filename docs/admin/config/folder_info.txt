@@ -1,0 +1,2 @@
+Carpeta: config
+Ruta Relativa: /admin/config

@@ -1,0 +1,7 @@
+Archivo: listadodocumentos.php
+Ruta Relativa: /admin/inc/listadodocumentos.php
+
+Documentación:
+Archivo: listadodocumentos.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/listadodocumentos.php

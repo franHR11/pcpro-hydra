@@ -1,0 +1,13 @@
+Archivo: carrito.php
+Ruta Relativa: /modulos/carrito/carrito.php
+
+Documentación:
+* @webblock Carrito de Compras
+ * @description Módulo principal del carrito de compras que gestiona:
+ * - Visualización de productos seleccionados
+ * - Formulario de datos del cliente
+ * - Proceso de compra
+ * @version 1.0.0
+ * @package PCprogramacion
+ * @requires productosrelacionados.php
+

@@ -1,0 +1,4 @@
+Archivo: 1735493889_banerram.webp
+Ruta Relativa: /static/1735493889_banerram.webp
+
+Documentación:

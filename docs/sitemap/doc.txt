@@ -1,0 +1,4 @@
+Archivo: sitemap.xml
+Ruta Relativa: /sitemap.xml
+
+Documentación:

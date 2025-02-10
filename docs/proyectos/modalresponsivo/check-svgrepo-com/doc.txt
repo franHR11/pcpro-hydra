@@ -1,0 +1,4 @@
+Archivo: check-svgrepo-com.svg
+Ruta Relativa: /proyectos/modalresponsivo/check-svgrepo-com.svg
+
+Documentación:

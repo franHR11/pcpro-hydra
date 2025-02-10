@@ -1,0 +1,4 @@
+Archivo: 1735770633_fondoheroe3.jpeg
+Ruta Relativa: /static/1735770633_fondoheroe3.jpeg
+
+Documentación:

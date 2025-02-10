@@ -1,0 +1,7 @@
+Archivo: pais.php
+Ruta Relativa: /log/pais.php
+
+Documentación:
+Archivo: pais.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/log/pais.php

@@ -1,0 +1,4 @@
+Archivo: left.svg
+Ruta Relativa: /admin/snow/svg/left.svg
+
+Documentación:

@@ -1,0 +1,4 @@
+Archivo: visits.csv
+Ruta Relativa: /inc/analytics/visits.csv
+
+Documentación:

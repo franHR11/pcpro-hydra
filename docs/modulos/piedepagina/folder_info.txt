@@ -1,0 +1,2 @@
+Carpeta: piedepagina
+Ruta Relativa: /modulos/piedepagina

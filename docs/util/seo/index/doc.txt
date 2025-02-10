@@ -1,0 +1,7 @@
+Archivo: index.php
+Ruta Relativa: /util/seo/index.php
+
+Documentación:
+Archivo: index.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/util/seo/index.php

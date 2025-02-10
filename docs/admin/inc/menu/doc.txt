@@ -1,0 +1,7 @@
+Archivo: menu.php
+Ruta Relativa: /admin/inc/menu.php
+
+Documentación:
+Archivo: menu.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/menu.php

@@ -1,0 +1,9 @@
+Archivo: oferta.php
+Ruta Relativa: /modulos/oferta/oferta.php
+
+Documentación:
+* @webblock Módulo de oferta
+ * @author FranHR
+ * @description Componente que muestra una oferta promocional animada
+ * @version 1.0.0
+

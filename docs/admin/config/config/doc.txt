@@ -1,0 +1,7 @@
+Archivo: config.php
+Ruta Relativa: /admin/config/config.php
+
+Documentación:
+Archivo: config.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/config/config.php

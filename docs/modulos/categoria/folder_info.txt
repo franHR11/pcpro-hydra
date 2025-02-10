@@ -1,0 +1,2 @@
+Carpeta: categoria
+Ruta Relativa: /modulos/categoria

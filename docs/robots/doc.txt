@@ -1,0 +1,4 @@
+Archivo: robots.txt
+Ruta Relativa: /robots.txt
+
+Documentación:

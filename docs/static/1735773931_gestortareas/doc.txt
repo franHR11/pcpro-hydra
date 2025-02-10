@@ -1,0 +1,4 @@
+Archivo: 1735773931_gestortareas.png
+Ruta Relativa: /static/1735773931_gestortareas.png
+
+Documentación:

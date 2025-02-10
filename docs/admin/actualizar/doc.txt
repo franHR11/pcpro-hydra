@@ -1,0 +1,7 @@
+Archivo: actualizar.php
+Ruta Relativa: /admin/actualizar.php
+
+Documentación:
+Archivo: actualizar.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/actualizar.php

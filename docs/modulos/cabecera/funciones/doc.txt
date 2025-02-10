@@ -1,0 +1,7 @@
+Archivo: funciones.js
+Ruta Relativa: /modulos/cabecera/funciones.js
+
+Documentación:
+Archivo: funciones.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/modulos/cabecera/funciones.js

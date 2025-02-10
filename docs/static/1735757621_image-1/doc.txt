@@ -1,0 +1,4 @@
+Archivo: 1735757621_image-1.png
+Ruta Relativa: /static/1735757621_image-1.png
+
+Documentación:

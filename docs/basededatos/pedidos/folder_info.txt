@@ -1,0 +1,2 @@
+Carpeta: pedidos
+Ruta Relativa: /basededatos/pedidos

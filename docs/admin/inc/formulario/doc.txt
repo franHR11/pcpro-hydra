@@ -1,0 +1,7 @@
+Archivo: formulario.php
+Ruta Relativa: /admin/inc/formulario.php
+
+Documentación:
+Archivo: formulario.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/formulario.php

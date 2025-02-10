@@ -1,0 +1,7 @@
+Archivo: login.php
+Ruta Relativa: /admin/login.php
+
+Documentación:
+Archivo: login.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/login.php

@@ -1,0 +1,4 @@
+Archivo: geoloc.sqlite
+Ruta Relativa: /log/geoloc.sqlite
+
+Documentación:

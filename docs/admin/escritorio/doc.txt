@@ -1,0 +1,7 @@
+Archivo: escritorio.php
+Ruta Relativa: /admin/escritorio.php
+
+Documentación:
+Archivo: escritorio.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/escritorio.php

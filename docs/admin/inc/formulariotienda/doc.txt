@@ -1,0 +1,7 @@
+Archivo: formulariotienda.php
+Ruta Relativa: /admin/inc/formulariotienda.php
+
+Documentación:
+Archivo: formulariotienda.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/formulariotienda.php

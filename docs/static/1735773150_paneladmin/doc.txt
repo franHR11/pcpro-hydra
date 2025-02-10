@@ -1,0 +1,4 @@
+Archivo: 1735773150_paneladmin.png
+Ruta Relativa: /static/1735773150_paneladmin.png
+
+Documentación:

@@ -1,0 +1,2 @@
+Carpeta: dragonballparallax
+Ruta Relativa: /proyectos/dragonballparallax

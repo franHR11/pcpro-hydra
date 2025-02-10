@@ -1,0 +1,4 @@
+Archivo: center.svg
+Ruta Relativa: /admin/snow/svg/center.svg
+
+Documentación:

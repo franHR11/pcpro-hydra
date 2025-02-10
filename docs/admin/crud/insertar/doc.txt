@@ -1,0 +1,7 @@
+Archivo: insertar.php
+Ruta Relativa: /admin/crud/insertar.php
+
+Documentación:
+Archivo: insertar.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/crud/insertar.php

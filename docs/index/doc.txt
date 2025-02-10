@@ -1,0 +1,17 @@
+Archivo: index.php
+Ruta Relativa: /index.php
+
+Documentación:
+* Página principal del sitio
+ * 
+ * @description Página de inicio que muestra el contenido principal
+ * @requires inc/registro.php - Funcionalidad de registro (debe cargarse primero)
+ * @requires inc/errores.php - Manejo de errores
+ * @requires inc/cabeza.php - Header HTML común
+ * @requires modulos/cabecera/cabecera.php - Navegación superior
+ * @requires modulos/principal/principal.php - Contenido de la página principal
+ * @requires modulos/piedepagina/piedepagina.php - Footer común
+ * @requires modulos/modal/modal.php - Ventanas modales
+ * @version 1.0
+ * @author Francisco José Herreros Rodríguez
+

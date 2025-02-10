@@ -1,0 +1,7 @@
+Archivo: eliminar_imagen.php
+Ruta Relativa: /admin/inc/eliminar_imagen.php
+
+Documentación:
+Archivo: eliminar_imagen.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/inc/eliminar_imagen.php

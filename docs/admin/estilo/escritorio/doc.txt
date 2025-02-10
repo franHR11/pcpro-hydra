@@ -1,0 +1,5 @@
+Archivo: escritorio.css
+Ruta Relativa: /admin/estilo/escritorio.css
+
+Documentación:
+Updated font for a more professional look

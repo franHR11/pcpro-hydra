@@ -1,0 +1,7 @@
+Archivo: index.html
+Ruta Relativa: /admin/index.html
+
+Documentación:
+Archivo: index.html
+Tipo: HTML
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/index.html

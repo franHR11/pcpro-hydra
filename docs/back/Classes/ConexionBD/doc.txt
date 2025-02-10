@@ -1,0 +1,7 @@
+Archivo: ConexionBD.php
+Ruta Relativa: /back/Classes/ConexionBD.php
+
+Documentación:
+Archivo: ConexionBD.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/back/Classes/ConexionBD.php

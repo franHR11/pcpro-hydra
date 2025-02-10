@@ -1,0 +1,7 @@
+Archivo: codigo.js
+Ruta Relativa: /admin/js/codigo.js
+
+Documentación:
+Archivo: codigo.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/admin/js/codigo.js

@@ -1,0 +1,16 @@
+Archivo: contacto.php
+Ruta Relativa: /contacto.php
+
+Documentación:
+* Página de contacto
+ * 
+ * @description Formulario de contacto y información de la empresa
+ * @requires inc/registro.php - Funcionalidad de registro (debe cargarse primero)
+ * @requires inc/errores.php - Manejo de errores
+ * @requires inc/cabeza.php - Header HTML común
+ * @requires modulos/cabecera/cabecera.php - Navegación superior
+ * @requires modulos/contacto/contacto.php - Formulario de contacto
+ * @requires modulos/piedepagina/piedepagina.php - Footer común
+ * @requires modulos/modal/modal.php - Ventanas modales
+ * @author Francisco José Herreros Rodríguez
+

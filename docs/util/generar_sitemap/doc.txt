@@ -1,0 +1,7 @@
+Archivo: generar_sitemap.php
+Ruta Relativa: /util/generar_sitemap.php
+
+Documentación:
+Archivo: generar_sitemap.php
+Tipo: PHP
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/util/generar_sitemap.php

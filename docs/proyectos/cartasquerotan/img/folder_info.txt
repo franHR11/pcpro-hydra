@@ -1,0 +1,2 @@
+Carpeta: img
+Ruta Relativa: /proyectos/cartasquerotan/img

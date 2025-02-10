@@ -1,0 +1,4 @@
+Archivo: 1735754819_js.jpg
+Ruta Relativa: /static/1735754819_js.jpg
+
+Documentación:

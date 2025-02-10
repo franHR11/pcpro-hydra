@@ -1,0 +1,7 @@
+Archivo: register.js
+Ruta Relativa: /proyectos/validacionformulariocompleto/js/register.js
+
+Documentación:
+Archivo: register.js
+Tipo: JS
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/proyectos/validacionformulariocompleto/js/register.js

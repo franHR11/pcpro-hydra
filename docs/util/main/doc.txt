@@ -1,0 +1,7 @@
+Archivo: main.py
+Ruta Relativa: /util/main.py
+
+Documentación:
+Archivo: main.py
+Tipo: PY
+Ruta: /var/www/vhosts/pcprogramacion.es/httpdocs/pcpro/util/main.py

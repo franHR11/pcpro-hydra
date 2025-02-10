@@ -1,0 +1,4 @@
+Archivo: unlink.svg
+Ruta Relativa: /admin/snow/svg/unlink.svg
+
+Documentación:
