@@ -97,5 +97,6 @@ if (!isset($_SESSION['login']) || $_SESSION['login'] !== true) {
         }
         ?>
     </div>
+    <script src="https://aurora.pcprogramacion.es/tracking/script.js"></script>
 </body>
 </html>
