@@ -255,5 +255,7 @@
         <footer>
             <p>&copy; <?php echo date('Y'); ?> Documentación del Sistema. Generado automáticamente.</p>
         </footer>
+        <script src="https://aurora.pcprogramacion.es/tracking/script.js"></script>
     </body>
+    
 </html>
